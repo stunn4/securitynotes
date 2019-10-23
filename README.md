@@ -1,4 +1,4 @@
 # securitynotes
 
 
-Just a place to put notes.
+Just a place where to put notes.
