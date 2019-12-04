@@ -1,6 +1,6 @@
 # Privilege Escalation Checklist
 
-*keep in mind that these notes are intended to provides a little and really basic checklist that I could sometimes follow when I feel stuck on scenario(s) like CTFs.*
+*keep in mind that these notes are intended to provide a little and really basic checklist that I could sometimes follow when I feel stuck on scenario(s) like CTFs.*
 
 ----
 ## What do I have in my hands?
